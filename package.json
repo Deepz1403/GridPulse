@@ -1,0 +1,12 @@
+{
+  "name": "gridpulse-monorepo",
+  "version": "1.0.0",
+  "description": "A monorepo for the GridPulse project, containing the client, server, and chatbot.",
+  "main": "index.js",
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "author": "",
+  "license": "ISC"
+}

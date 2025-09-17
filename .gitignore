@@ -1,0 +1,50 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+/chatbot/node_modules
+/client/node_modules
+/server/node_modules
+
+# testing
+/coverage
+
+# production
+/build
+/client/dist # Assuming 'dist' is the build output directory for the client
+
+# misc
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.next/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.idea
+.vscode
+*.tgz
+.eslintcache
+.prettierignore
+.prettierrc
+.prettierrc.json
+.prettierrc.js
+.prettierrc.cjs
+.prettierrc.yaml
+.prettierrc.yml
+
+# Python specific ignores for chatbot
+/chatbot/__pycache__
+/chatbot/*.pyc
+/chatbot/.venv
+/chatbot/env
+
+# package-lock.json for subdirectories
+/chatbot/package-lock.json
+/client/package-lock.json
+/server/package-lock.json

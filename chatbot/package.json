@@ -1,0 +1,12 @@
+{
+  "name": "gridpulse-chatbot",
+  "version": "1.0.0",
+  "description": "Python chatbot for GridPulse",
+  "main": "app.py",
+  "scripts": {
+    "install": "pip install -r requirements.txt",
+    "start": "python app.py"
+  },
+  "author": "",
+  "license": "ISC"
+}

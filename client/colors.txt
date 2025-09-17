@@ -1,0 +1,35 @@
+#F5FBFE --> primary
+hover:bg-[#343230]/50 -> secondary 50
+#363130
+
+ #262626 -> foregrounf
+
+ --card: #2a2726; /* HSL(20, 5%, 15%) */
+--card-foreground: #f5fbfe; /* HSL(210, 40%, 98%) */
+
+     gridpulse: {
+            blue: "#5FB1E8",
+            darkblue: "#073E67",
+            dark: "#121212",
+            darker: "#0A0A0A",
+            light: "#F5F5F5",
+            accent: "#5FB1E8",
+          },
+
+#8E8E8E  muted foreground
+#EBEBEB  border
+#1A1818 sidebar back
+#F7FAFC   --sidebar-foreground:
+#4AC4DA  --sidebar-primary: 
+#FFFFFF  --sidebar-primary-foreground:
+#2B2928 --sidebar-accent:
+#5EC9ED ring
+ #322C2A input
+ #94A3B8 muted foreground
+
+ #272522
+
+ Onclicking substation name in employee list ,
+  it will take me to specific substation page that will 
+  display details of that substation , all details , assigned to whom , 
+  etc , everything from location to temperature

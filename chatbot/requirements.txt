@@ -1,0 +1,9 @@
+Flask
+Flask-CORS
+pymongo
+sentence-transformers
+transformers
+torch
+numpy
+requests
+python-dotenv
